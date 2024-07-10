@@ -1,8 +1,7 @@
 # Super Hexagon
 
 [super hexagon](https://github.com/nafod/super-hexagon/tree/master/super_hexagon) 은 HITCON2018 에 나온 AArch64 문제이다.  
-이 문제의 목표는  
-NS.EL0 에서 S.EL1 와 EL3 를 포함한 모든 Exception Level 에서 플래그를 읽는 것이다.
+이 문제의 목표는 NS.EL0 에서 S.EL1 와 EL3 를 포함한 모든 Exception Level 에서 플래그를 읽는 것이다.
 
 ## Bios.bin
 
